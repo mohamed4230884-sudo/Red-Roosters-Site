@@ -1,0 +1,2694 @@
+{
+  "schemaVersion": 1,
+  "brand": "Red Roosters",
+  "currency": "EGP",
+  "sourceNote": "Generated from the current website card content. Excel import is retained separately for reconciliation; review duplicates/price conflicts before making this the sole source of truth.",
+  "items": [
+    {
+      "id": "new-items-001",
+      "section": "new-items",
+      "name": "مانجو فاير",
+      "nameEn": "Mango Fire",
+      "description": "خس + قطعة من صدور دجاج زنجر + صوص مانجو + أصابع موتزريلا",
+      "price": 99,
+      "priceLabel": "99 LE",
+      "image": "https://i.ibb.co/TMD1795L/mango-sandwich.jpg",
+      "imageAlt": "Mango Fire",
+      "classes": [
+        "card",
+        "new-item"
+      ],
+      "available": true
+    },
+    {
+      "id": "new-items-002",
+      "section": "new-items",
+      "name": "مايتي زينجر",
+      "nameEn": "Mighty Zinger",
+      "description": "شريحة جبنة أمريكي + خس + قطعتين من صدور دجاج زينجر + مايونيز + تشيلي مايونيز",
+      "price": 149,
+      "priceLabel": "149 LE",
+      "image": "https://i.ibb.co/tP1BMZDR/mighty-zinger.jpg",
+      "imageAlt": "Mighty Zinger",
+      "classes": [
+        "card",
+        "new-item"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-003",
+      "section": "offers",
+      "name": "عرض اللانش بوكس ١",
+      "nameEn": "Lunch Box 1",
+      "description": "ساندوتش تويستر 🌯 + قطعة دجاج 🍗 + بطاطس صغير 🍟",
+      "price": 99,
+      "priceLabel": "99 LE",
+      "image": "https://i.postimg.cc/L66sgZwC/lunch-1.jpg",
+      "imageAlt": "عرض اللانش بوكس ١",
+      "classes": [
+        "card",
+        "school-item"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-004",
+      "section": "offers",
+      "name": "عرض اللانش بوكس ٢",
+      "nameEn": "Lunch Box 2",
+      "description": "ريزو 🍚 + قطعة دجاج 🍗 + بطاطس صغير 🍟",
+      "price": 99,
+      "priceLabel": "99 LE",
+      "image": "https://i.postimg.cc/MKKGfjgk/lunch-2.jpg",
+      "imageAlt": "عرض اللانش بوكس ٢",
+      "classes": [
+        "card",
+        "school-item"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-005",
+      "section": "offers",
+      "name": "عرض اللانش بوكس ٣",
+      "nameEn": "Lunch Box 3",
+      "description": "أرز مبهر 🍚 + قطعة دجاج 🍗 + قطعة كريسبي 🍗",
+      "price": 99,
+      "priceLabel": "99 LE",
+      "image": "https://i.postimg.cc/BQYnTnfh/lunch-3.jpg",
+      "imageAlt": "عرض اللانش بوكس ٣",
+      "classes": [
+        "card",
+        "school-item"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-006",
+      "section": "offers",
+      "name": "عرض الفسحة ١",
+      "nameEn": "Outing Deal 1",
+      "description": "7 قطع دجاج 🍗 + بطاطس وسط 🍟 + 2 كايزر 🍔 + 2 كول سلو صغير 🥗",
+      "price": 299,
+      "priceLabel": "299 LE",
+      "image": "https://i.postimg.cc/tRzTgzSd/break-1.jpg",
+      "imageAlt": "عرض الفسحة ١",
+      "classes": [
+        "card",
+        "school-item"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-007",
+      "section": "offers",
+      "name": "عرض الفسحة ٢",
+      "nameEn": "Outing Deal 2",
+      "description": "ساندوتش تويستر 🌯 + ساندوتش سوبريم 🥪 + ساندوتش تشيكن 🍔 + بطاطس وسط 🍟 + 2 كول سلو صغير 🥗",
+      "price": 299,
+      "priceLabel": "299 LE",
+      "image": "https://i.postimg.cc/c44Jt82X/break-2.jpg",
+      "imageAlt": "عرض الفسحة ٢",
+      "classes": [
+        "card",
+        "school-item"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-008",
+      "section": "offers",
+      "name": "عرض الفسحة ٣",
+      "nameEn": "Outing Deal 3",
+      "description": "2 ساندوتش بيف 🥩🍔 + بطاطس وسط فريسكس 🍟",
+      "price": 299,
+      "priceLabel": "299 LE",
+      "image": "https://i.postimg.cc/8PPCfr9y/break-3.jpg",
+      "imageAlt": "عرض الفسحة ٣",
+      "classes": [
+        "card",
+        "school-item"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-009",
+      "section": "offers",
+      "name": "بوكس زنجر سوبريم",
+      "nameEn": "Zinger Supreme Box",
+      "description": "اتنين ساندوتش سوبريم (فيلية أو زينجر) من اختيار العميل",
+      "price": 199,
+      "priceLabel": "199 LE",
+      "image": "https://i.ibb.co/5xh70cWh/Whats-App-Image-2026-07-25-at-8-21-17-PM.jpg",
+      "imageAlt": "بوكس زنجر سوبريم",
+      "classes": [
+        "card",
+        "offer-hot"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-010",
+      "section": "offers",
+      "name": "عرض الروقان 1",
+      "nameEn": "",
+      "description": "أرز كبير + 2 قطعة دجاج أو 4 قطعة استربس + صوص + مشروب",
+      "price": 185,
+      "priceLabel": "185 LE",
+      "image": "https://i.ibb.co/0R89m3TW/Whats-App-Image-2026-05-02-at-10-20-34-PM.jpg",
+      "imageAlt": "عرض الروقان 1",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-011",
+      "section": "offers",
+      "name": "عرض الروقان 2",
+      "nameEn": "",
+      "description": "قطعة دجاج + ساندوتش تشيكن (عدا المايتي زينجر) أو زينجر سوبريم أو فيليه سوبريم + 1 مشروب",
+      "price": 185,
+      "priceLabel": "185 LE",
+      "image": "https://i.ibb.co/Lhzpw1xv/Whats-App-Image-2026-05-02-at-10-20-35-PM.jpg",
+      "imageAlt": "عرض الروقان 2",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-012",
+      "section": "offers",
+      "name": "عرض الروقان 3",
+      "nameEn": "",
+      "description": "قطعة دجاج + تويستر تشيكن أو فاهيتا + كول سلو + مشروب",
+      "price": 185,
+      "priceLabel": "185 LE",
+      "image": "https://i.ibb.co/N6XLM8vG/3.jpg",
+      "imageAlt": "عرض الروقان 3",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-013",
+      "section": "offers",
+      "name": "عرض الروقان 4",
+      "nameEn": "",
+      "description": "قطعة دجاج + قطعة كرسبي + خبز + ريزو + 1 مشروب",
+      "price": 185,
+      "priceLabel": "185 LE",
+      "image": "https://i.ibb.co/ym1RsqgJ/4.jpg",
+      "imageAlt": "عرض الروقان 4",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-014",
+      "section": "offers",
+      "name": "عرض الروقان 5",
+      "nameEn": "",
+      "description": "تويستر تشيكن أو فاهيتا + سوبريم + كول سلو",
+      "price": 185,
+      "priceLabel": "185 LE",
+      "image": "https://i.ibb.co/W4y4fHsD/5.jpg",
+      "imageAlt": "عرض الروقان 5",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-015",
+      "section": "offers",
+      "name": "عرض الروقان 6",
+      "nameEn": "",
+      "description": "قطعتين دجاج + قطعتين كرسبي استربس + أرز + 1 خبز",
+      "price": 185,
+      "priceLabel": "185 LE",
+      "image": "https://i.ibb.co/bj7JytKp/Whats-App-Image-2026-05-02-at-10-20-32-PM.jpg",
+      "imageAlt": "عرض الروقان 6",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-016",
+      "section": "offers",
+      "name": "عرض الريزو",
+      "nameEn": "",
+      "description": "طبق ريزو كبير",
+      "price": 70,
+      "priceLabel": "70 LE",
+      "image": "https://i.ibb.co/yBbXK0Fq/image.jpg",
+      "imageAlt": "عرض الريزو",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-017",
+      "section": "offers",
+      "name": "3 قطع دجاج + خبز",
+      "nameEn": "",
+      "description": "3 قطع دجاج + 1 خبز",
+      "price": 135,
+      "priceLabel": "135 LE",
+      "image": "https://i.postimg.cc/ht4hxdzn/twfyr-djaj.jpg",
+      "imageAlt": "3 قطع دجاج + خبز",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-018",
+      "section": "offers",
+      "name": "فانتاستيك فايف",
+      "nameEn": "",
+      "description": "5 قطع استربس + 1 خبز",
+      "price": 135,
+      "priceLabel": "135 LE",
+      "image": "https://i.postimg.cc/vZ8D9V1p/twfyr-astrybs.jpg",
+      "imageAlt": "فانتاستيك فايف",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-019",
+      "section": "offers",
+      "name": "ملك الروقان",
+      "nameEn": "",
+      "description": "ارز كبير (400) جرام + 3 قطع استريبس + كب صوص",
+      "price": 135,
+      "priceLabel": "135 LE",
+      "image": "https://i.postimg.cc/y86W9ZgB/kynj-alrwqan.jpg",
+      "imageAlt": "ملك الروقان",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-020",
+      "section": "offers",
+      "name": "كلاسيك الروقان",
+      "nameEn": "",
+      "description": "ساندوتش تشيكن (من اختيار العميل) (عدا المايتي زينجر) أو زينجر سوبريم أو فيليه سوبريم + كول سلو أو مشروب (من اختيار العميل)",
+      "price": 135,
+      "priceLabel": "135 LE",
+      "image": "https://i.ibb.co/Xf4VJ1Xz/image.jpg",
+      "imageAlt": "كلاسيك الروقان",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-021",
+      "section": "offers",
+      "name": "دابل راب",
+      "nameEn": "",
+      "description": "2 ساندوتش راب (تويستر عادي أو فاهيتا)",
+      "price": 165,
+      "priceLabel": "165 LE",
+      "image": "https://i.postimg.cc/CxMdDqBg/dbl-rab.jpg",
+      "imageAlt": "دابل راب",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-022",
+      "section": "offers",
+      "name": "كومبو الروقان",
+      "nameEn": "",
+      "description": "ساندوتش برجر (120 جرام) + فرايز + مشروب",
+      "price": 175,
+      "priceLabel": "175 LE",
+      "image": "https://i.ibb.co/fGKBstdP/image.jpg",
+      "imageAlt": "كومبو الروقان",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-023",
+      "section": "offers",
+      "name": "عرض الرايقين",
+      "nameEn": "",
+      "description": "6 قطع دجاج + 3 أرز + 3 خبز كايزر",
+      "price": 315,
+      "priceLabel": "315 LE",
+      "image": "https://i.ibb.co/CRHL9fB/image.jpg",
+      "imageAlt": "عرض الرايقين",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-024",
+      "section": "offers",
+      "name": "ملوك الروقان",
+      "nameEn": "",
+      "description": "10 قطع دجاج + 2 أرز + كول سلو فاملي + 5 خبز + مشروب لتر",
+      "price": 575,
+      "priceLabel": "575 LE",
+      "image": "https://i.ibb.co/1JqcXscd/image.jpg",
+      "imageAlt": "ملوك الروقان",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "offers-025",
+      "section": "offers",
+      "name": "يادلعوا",
+      "nameEn": "",
+      "description": "أربع قطع استريبس بالإضافة إلى بطاطس وخبز وصوص كب",
+      "price": 119,
+      "priceLabel": "119 LE",
+      "image": "https://i.ibb.co/67Z27j0y/image.png",
+      "imageAlt": "يا دلعوا",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "nashville-026",
+      "section": "nashville",
+      "name": "ريد ناش وجبة صغيرة",
+      "nameEn": "Red Nash Meal Small",
+      "description": "2 قطعة دجاج + خبز + 1 كول سلو + 1 فرايز وسط",
+      "price": 179,
+      "priceLabel": "179 LE",
+      "image": "https://i.postimg.cc/d12rnkXc/meal-S.jpg",
+      "imageAlt": "Red Nash Meal Small",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "nashville-027",
+      "section": "nashville",
+      "name": "ريد ناش وجبة كبيرة",
+      "nameEn": "Red Nash Meal Large",
+      "description": "3 قطعة دجاج + خبز + 1 كول سلو + 1 فرايز وسط",
+      "price": 239,
+      "priceLabel": "239 LE",
+      "image": "https://i.postimg.cc/CKWscVxj/meal-l.jpg",
+      "imageAlt": "Red Nash Meal Large",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "nashville-028",
+      "section": "nashville",
+      "name": "ريد ناش استربس صغير",
+      "nameEn": "Red Nash Tinder Small",
+      "description": "2 قطعة استربس + 1 خبز + 1 كول سلو + 1 فرايز وسط",
+      "price": 179,
+      "priceLabel": "179 LE",
+      "image": "https://i.postimg.cc/VvzMhsy2/strips-Sl.jpg",
+      "imageAlt": "Red Nash Tinder Small",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "nashville-029",
+      "section": "nashville",
+      "name": "ريد ناش استربس كبير",
+      "nameEn": "Red Nash Tinder Large",
+      "description": "3 قطعة استربس + 1 خبز + 1 كول سلو + 1 فرايز وسط",
+      "price": 239,
+      "priceLabel": "239 LE",
+      "image": "https://i.postimg.cc/PxYzcFC4/strips-l.jpg",
+      "imageAlt": "Red Nash Tinder Large",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "nashville-030",
+      "section": "nashville",
+      "name": "ريزو ناش",
+      "nameEn": "Rizo Nash",
+      "description": "أرز مبهر + صوص سبايسي روستر + دجاج ناشفيل",
+      "price": 109,
+      "priceLabel": "109 LE",
+      "image": "https://i.postimg.cc/xCMy7FXP/rizo-nash.jpg",
+      "imageAlt": "Rizo Nash",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "nashville-031",
+      "section": "nashville",
+      "name": "سويتي ناش فرايز",
+      "nameEn": "Sweety Nash Fries",
+      "description": "صوص سويت شيلي + فرايز + دجاج ناشفيل",
+      "price": 129,
+      "priceLabel": "129 LE",
+      "image": "https://i.postimg.cc/qRyXYZN1/sweety-nash-fries.jpg",
+      "imageAlt": "Sweety Nash Fries",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "nashville-032",
+      "section": "nashville",
+      "name": "روستر ناش فرايز",
+      "nameEn": "Rooster Nash Fries",
+      "description": "صوص روستر الخاص + فرايز + دجاج ناشفيل",
+      "price": 129,
+      "priceLabel": "129 LE",
+      "image": "https://i.postimg.cc/hjTbw3X1/nash-fries.jpg",
+      "imageAlt": "Rooster Nash Fries",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "nashville-033",
+      "section": "nashville",
+      "name": "ناش راب",
+      "nameEn": "Nash Rab",
+      "description": "عيش التورتيلا + قطع السبايسي ناشفيل + خس وصوص خاص",
+      "price": 139,
+      "priceLabel": "139 LE",
+      "image": "https://i.postimg.cc/9MZtSND8/twister-nash.jpg",
+      "imageAlt": "Nash Rab",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "nashville-034",
+      "section": "nashville",
+      "name": "ناش كول",
+      "nameEn": "NASH COOL",
+      "description": "زينجر + سلو + روستر الميز + خس + خيار",
+      "price": 179,
+      "priceLabel": "179 LE",
+      "image": "https://i.postimg.cc/FzvgQgSW/nash-cool.png",
+      "imageAlt": "NASH COOL",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "nashville-035",
+      "section": "nashville",
+      "name": "سويتي هيت ناش",
+      "nameEn": "SWEETY HIT NASH",
+      "description": "زينجر + جبنة أمريكي + سويت شيلي + خس + خيار",
+      "price": 179,
+      "priceLabel": "179 LE",
+      "image": "https://i.postimg.cc/tJbtHtP9/sweety-nash.png",
+      "imageAlt": "SWEETY HIT NASH",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "nashville-036",
+      "section": "nashville",
+      "name": "مايتي دبل ناشفيل",
+      "nameEn": "Mighty Double Nashville",
+      "description": "شريحة من الجبن الأمريكي المذاب، وخس طازج، وقطعتان من فيليه صدور دجاج \"ناش\" المقرمش، مع طبقات من المايونيز الكريمي ومايونيز الفلفل الحار.",
+      "price": 179,
+      "priceLabel": "179 LE",
+      "image": "https://i.ibb.co/jCk0YfR/image.png",
+      "imageAlt": "Mighty Double Nashville",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "beef-sandwiches-037",
+      "section": "beef-sandwiches",
+      "name": "كلاسيك كينج",
+      "nameEn": "Classic King",
+      "description": "صوص تكساس + خيار مخلل + خس + قطعة برجر + بصل + جبنة أمريكي",
+      "price": 149,
+      "priceLabel": "149 LE",
+      "image": "https://i.postimg.cc/BnHF7xWt/Classic-King.jpg",
+      "imageAlt": "Classic King",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "beef-sandwiches-038",
+      "section": "beef-sandwiches",
+      "name": "مشروم كراون",
+      "nameEn": "Mushroom Crown",
+      "description": "صوص مايونيز + خيار مخلل + خس + قطعة برجر + بصل + جبنة أمريكي + مشروم فريش",
+      "price": 169,
+      "priceLabel": "169 LE",
+      "image": "https://i.postimg.cc/xTqy5JTw/Mushroom-Crown.jpg",
+      "imageAlt": "Mushroom Crown",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "beef-sandwiches-039",
+      "section": "beef-sandwiches",
+      "name": "بيكون ستار",
+      "nameEn": "Bacon Star",
+      "description": "صوص بوسطن + خيار مخلل + خس + قطعة برجر + صوص ساور كريم + بيف بيكون",
+      "price": 169,
+      "priceLabel": "169 LE",
+      "image": "https://i.postimg.cc/CKMjZzt1/image.jpg",
+      "imageAlt": "Bacon Star",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "beef-sandwiches-040",
+      "section": "beef-sandwiches",
+      "name": "تاستي لورد",
+      "nameEn": "Tasty Lord",
+      "description": "صوص تكساس + خيار مخلل + خس + قطعة برجر + بصل + صوص بصل فرنسي",
+      "price": null,
+      "priceLabel": "— LE",
+      "image": "https://i.postimg.cc/Bv8nw31W/Tasty-Lord.jpg",
+      "imageAlt": "Tasty Lord",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "beef-sandwiches-041",
+      "section": "beef-sandwiches",
+      "name": "ريد وار",
+      "nameEn": "Red War",
+      "description": "صوص ديناميت + فلفل هالبينو + خس + قطعة برجر + بصل + صوص روستر + أصابع شيدر هالبينو",
+      "price": 169,
+      "priceLabel": "169 LE",
+      "image": "https://i.postimg.cc/wBSTCrhk/Red-War.jpg",
+      "imageAlt": "Red War",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "beef-sandwiches-042",
+      "section": "beef-sandwiches",
+      "name": "رويال بايت",
+      "nameEn": "Royal Bite",
+      "description": "صوص باربكيو + خيار مخلل + خس + قطعة برجر + بصل + بيف بيكون + حلقات بصل + صوص بوسطن",
+      "price": 169,
+      "priceLabel": "169 LE",
+      "image": "https://i.postimg.cc/9MZFCBpB/Royal-Bite.jpg",
+      "imageAlt": "Royal Bite",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "beef-sandwiches-043",
+      "section": "beef-sandwiches",
+      "name": "ميكسكانو",
+      "nameEn": "Mixicano",
+      "description": "صوص بوسطن + خيار مخلل + قطعة برجر + بصل + جبنة أمريكي + ناتشوز + فلفل ألوان سوتية",
+      "price": 169,
+      "priceLabel": "169 LE",
+      "image": "https://i.ibb.co/GfrWtNWd/mexicano.jpg",
+      "imageAlt": "Mixicano",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "beef-sandwiches-044",
+      "section": "beef-sandwiches",
+      "name": "بيف تاشيو",
+      "nameEn": "Beef Tashio",
+      "description": "صوص تكساس + خيار مخلل + قطعة برجر + بصل + جبنة أمريكي + صوص بستاشيو",
+      "price": null,
+      "priceLabel": "— LE",
+      "image": "https://i.postimg.cc/J0jmC41L/Beeftashio.jpg",
+      "imageAlt": "Beef Tashio",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "chicken-sandwiches-045",
+      "section": "chicken-sandwiches",
+      "name": "تركي ميلت",
+      "nameEn": "Turkey Melt",
+      "description": "صوص الرانش + خيار مخلل + خس + صدور دجاج كريسبي + لحم تركي مدخن + صوص الجبنة",
+      "price": 139,
+      "priceLabel": "139 LE",
+      "image": "https://i.postimg.cc/sXcMnB8F/Turkey-Melt.jpg",
+      "imageAlt": "Turkey Melt",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "chicken-sandwiches-046",
+      "section": "chicken-sandwiches",
+      "name": "وايلد مشروم",
+      "nameEn": "Wild Mushroom",
+      "description": "صوص الروستر + خيار مخلل + خس + صدور دجاج كريسبي + جبنة أمريكي + مشروم فريش + صوص رانش",
+      "price": 139,
+      "priceLabel": "139 LE",
+      "image": "https://i.postimg.cc/d07MHgSx/wild-mushroom.jpg",
+      "imageAlt": "Wild Mushroom",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "chicken-sandwiches-047",
+      "section": "chicken-sandwiches",
+      "name": "تشيلي جان",
+      "nameEn": "Chili GUN",
+      "description": "صوص دناميت + هالبينو + خس + صدور دجاج كريسبي + أصابع شيدر هالبينو + صوص شيلي مايونيز",
+      "price": 139,
+      "priceLabel": "139 LE",
+      "image": "https://i.postimg.cc/MTMWBnSm/chili-Gun.jpg",
+      "imageAlt": "Chili GUN",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "chicken-sandwiches-048",
+      "section": "chicken-sandwiches",
+      "name": "سموكي تشيكن",
+      "nameEn": "SMOKEY CHICKEN",
+      "description": "صوص باربكيو + خيار مخلل + خس + صدور دجاج كريسبي + مايونيز + حلقات بصل",
+      "price": 139,
+      "priceLabel": "139 LE",
+      "image": "https://i.postimg.cc/8CF8Kxnq/Smokey-chicken.jpg",
+      "imageAlt": "Smokey Chicken",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "chicken-sandwiches-049",
+      "section": "chicken-sandwiches",
+      "name": "مانجو فاير",
+      "nameEn": "Mango Fire",
+      "description": "خس + قطعة من صدور دجاج زنجر + صوص مانجو + أصابع موتزريلا",
+      "price": 99,
+      "priceLabel": "99 LE",
+      "image": "https://i.ibb.co/TMD1795L/mango-sandwich.jpg",
+      "imageAlt": "Mango Fire",
+      "classes": [
+        "card",
+        "new-item"
+      ],
+      "available": true
+    },
+    {
+      "id": "chicken-sandwiches-050",
+      "section": "chicken-sandwiches",
+      "name": "مايتي زينجر",
+      "nameEn": "Mighty Zinger",
+      "description": "شريحة جبنة أمريكي + خس + قطعتين من صدور دجاج زينجر + مايونيز + تشيلي مايونيز",
+      "price": 149,
+      "priceLabel": "149 LE",
+      "image": "https://i.ibb.co/tP1BMZDR/mighty-zinger.jpg",
+      "imageAlt": "Mighty Zinger",
+      "classes": [
+        "card",
+        "new-item"
+      ],
+      "available": true
+    },
+    {
+      "id": "twister-supreme-051",
+      "section": "twister-supreme",
+      "name": "زينجر سوبريم",
+      "nameEn": "Zinger Supreme",
+      "description": "صوص مايونيز + خيار مخلل + خس + قطعة زينجر + سويت شيلي + تركي مدخن + جبنة أمريكي",
+      "price": 139,
+      "priceLabel": "139 LE",
+      "image": "https://i.postimg.cc/CLDsN77g/ZINGER-SUPREME.jpg",
+      "imageAlt": "Zinger Supreme",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "twister-supreme-052",
+      "section": "twister-supreme",
+      "name": "فيليه سوبريم",
+      "nameEn": "Fillet Supreme",
+      "description": "صوص مايونيز + خيار مخلل + خس + قطعة دجاج كريسبي + صوص روستر + روست بيف + جبنة أمريكي",
+      "price": 139,
+      "priceLabel": "139 LE",
+      "image": "https://i.postimg.cc/506wFSyv/Fillet-supreme.jpg",
+      "imageAlt": "Fillet Supreme",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "twister-supreme-053",
+      "section": "twister-supreme",
+      "name": "فاهيتا توستر",
+      "nameEn": "Fajita Twister",
+      "description": "فاهيتا + باربكيو (حار أو عادي)",
+      "price": 99,
+      "priceLabel": "99 LE",
+      "image": "https://i.postimg.cc/Hnr7VYS0/Fajita-twister.jpg",
+      "imageAlt": "Fajita twister",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "twister-supreme-054",
+      "section": "twister-supreme",
+      "name": "تشيكن توستر حار",
+      "nameEn": "Chicken Twister Spicy",
+      "description": "2 قطعة كرسبي استربس + طماطم + خس + مايونيز حار",
+      "price": 99,
+      "priceLabel": "99 LE",
+      "image": "https://i.postimg.cc/fLBxVgM0/Chicken-twister-spicy.jpg",
+      "imageAlt": "Chicken twister spicy",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "twister-supreme-055",
+      "section": "twister-supreme",
+      "name": "تشيكن توستر",
+      "nameEn": "Chicken Twister",
+      "description": "2 قطعة كرسبي استربس + طماطم + خس + مايونيز بالفلفل الأسود",
+      "price": 99,
+      "priceLabel": "99 LE",
+      "image": "https://i.postimg.cc/xCcKb38s/Chicken-twister.jpg",
+      "imageAlt": "Chicken twister",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "individual-meals-056",
+      "section": "individual-meals",
+      "name": "سناك",
+      "nameEn": "SNACK",
+      "description": "2 قطعة دجاج + فرايز + كايزر",
+      "price": 119,
+      "priceLabel": "119 LE",
+      "image": "https://i.postimg.cc/D0CkYFnv/image.jpg",
+      "imageAlt": "SNACK",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "individual-meals-057",
+      "section": "individual-meals",
+      "name": "سوبر سناك",
+      "nameEn": "SUPER SNACK",
+      "description": "2 قطعة دجاج + فرايز + كايزر + كول سلو + مشروب",
+      "price": 159,
+      "priceLabel": "159 LE",
+      "image": "https://i.postimg.cc/D0CkYFnv/image.jpg",
+      "imageAlt": "SUPER SNACK",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "individual-meals-058",
+      "section": "individual-meals",
+      "name": "دينر",
+      "nameEn": "DINNER",
+      "description": "3 قطعة دجاج + فرايز + كايزر + كول سلو",
+      "price": 199,
+      "priceLabel": "199 LE",
+      "image": "https://i.postimg.cc/nVTJLK72/image.jpg",
+      "imageAlt": "DINNER",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "individual-meals-059",
+      "section": "individual-meals",
+      "name": "سوبر دينر",
+      "nameEn": "Super Dinner",
+      "description": "4 قطعة دجاج + فرايز + كايزر + كول سلو + مشروب",
+      "price": 269,
+      "priceLabel": "269 LE",
+      "image": "https://i.postimg.cc/k4fp7cZ8/image.jpg",
+      "imageAlt": "Super Dinner",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "individual-meals-060",
+      "section": "individual-meals",
+      "name": "تشكين ديو",
+      "nameEn": "Chicken Duo",
+      "description": "2 قطعة دجاج + 2 قطعة استربس + فرايز + كايزر + كول سلو + مشروب",
+      "price": 219,
+      "priceLabel": "219 LE",
+      "image": "https://i.postimg.cc/vTvHYpyK/image.jpg",
+      "imageAlt": "Chicken Duo",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "individual-meals-061",
+      "section": "individual-meals",
+      "name": "لايت استربس",
+      "nameEn": "Light Strips",
+      "description": "3 قطعة استربس + فرايز + كايزر",
+      "price": 119,
+      "priceLabel": "119 LE",
+      "image": "https://i.postimg.cc/nhBSXZgp/image.jpg",
+      "imageAlt": "Light strips",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "individual-meals-062",
+      "section": "individual-meals",
+      "name": "دينر استربس",
+      "nameEn": "Dinner Strips",
+      "description": "5 قطعة استربس + فرايز + كايزر + كول سلو",
+      "price": 199,
+      "priceLabel": "199 LE",
+      "image": "https://i.postimg.cc/LsF7DhLz/image.jpg",
+      "imageAlt": "Dinner strips",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "family-meals-063",
+      "section": "family-meals",
+      "name": "وجبة عائلية 10 قطع",
+      "nameEn": "10 PC Family Meal",
+      "description": "5 قطع دجاج + 5 قطع استريبس + فرايز فاملي +  كايزر + كول سلو فاملي + لتر مشروب",
+      "price": 549,
+      "priceLabel": "549 LE",
+      "image": "https://i.postimg.cc/763mLNW9/Copy-of-3-Z7-A7087.png",
+      "imageAlt": "Family 10 PC",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "family-meals-064",
+      "section": "family-meals",
+      "name": "وجبة عائلية 9 قطع",
+      "nameEn": "9 PC Family Meal",
+      "description": "9 قطع دجاج + فرايز فاملي + 3 كايزر + كول سلو فاملي + لتر مشروب",
+      "price": 599,
+      "priceLabel": "599 LE",
+      "image": "https://i.postimg.cc/763mLNW9/Copy-of-3-Z7-A7087.png",
+      "imageAlt": "Family 9 PC",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "family-meals-065",
+      "section": "family-meals",
+      "name": "وجبة عائلية 12 قطعة",
+      "nameEn": "12 PC Family Meal",
+      "description": "12 قطع دجاج + فرايز فاملي + 4 كايزر + كول سلو فاملي + لتر مشروب",
+      "price": 699,
+      "priceLabel": "699 LE",
+      "image": "https://i.postimg.cc/763mLNW9/Copy-of-3-Z7-A7087.png",
+      "imageAlt": "Family 12 PC",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "family-meals-066",
+      "section": "family-meals",
+      "name": "وجبة عائلية 15 قطعة",
+      "nameEn": "15 PC Family Meal",
+      "description": "15 قطع دجاج + فرايز فاملي + 5 كايزر + كول سلو فاملي + لتر مشروب",
+      "price": 799,
+      "priceLabel": "799 LE",
+      "image": "https://i.postimg.cc/763mLNW9/Copy-of-3-Z7-A7087.png",
+      "imageAlt": "Family 15 PC",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "family-meals-067",
+      "section": "family-meals",
+      "name": "وجبة عائلية 18 قطعة",
+      "nameEn": "18 PC Family Meal",
+      "description": "18 قطع دجاج + فرايز فاملي + 6 كايزر + كول سلو فاملي + لتر مشروب",
+      "price": 899,
+      "priceLabel": "899 LE",
+      "image": "https://i.postimg.cc/763mLNW9/Copy-of-3-Z7-A7087.png",
+      "imageAlt": "Family 18 PC",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "kids-meals-068",
+      "section": "kids-meals",
+      "name": "وجبة أطفال دجاج",
+      "nameEn": "Kids Chicken",
+      "description": "قطعة دجاج + فرايز + كايزر + عصير + لعبة 🧸",
+      "price": 129,
+      "priceLabel": "129 LE",
+      "image": "https://i.postimg.cc/gkqNp4Z3/red-rosters2542.jpg",
+      "imageAlt": "Kids Chicken",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "kids-meals-069",
+      "section": "kids-meals",
+      "name": "وجبة أطفال ناجتس",
+      "nameEn": "Kids Nuggets",
+      "description": "5 قطع ناجتس + فرايز + صوص باربكيو + عصير + لعبة 🧸",
+      "price": 129,
+      "priceLabel": "129 LE",
+      "image": "https://i.postimg.cc/zGx7bBpJ/red-rosters2543.jpg",
+      "imageAlt": "Kids Nuggets",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "kids-meals-070",
+      "section": "kids-meals",
+      "name": "وجبة أطفال ساندوتش",
+      "nameEn": "Kids Sandwich",
+      "description": "ساندوتش تشيكن + فرايز + عصير + لعبة 🧸",
+      "price": 129,
+      "priceLabel": "129 LE",
+      "image": "https://i.postimg.cc/CLFbG0RT/red-rosters2846.jpg",
+      "imageAlt": "Kids Sandwich",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "kids-meals-071",
+      "section": "kids-meals",
+      "name": "وجبة أطفال برجر",
+      "nameEn": "Kids Burger",
+      "description": "برجر + فرايز + عصير + لعبة 🧸",
+      "price": 129,
+      "priceLabel": "129 LE",
+      "image": "https://i.postimg.cc/05GpKjyq/red-rosters2845.jpg",
+      "imageAlt": "Kids Burger",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-072",
+      "section": "appetizers",
+      "name": "كول سلو صغير",
+      "nameEn": "Coleslaw Small",
+      "description": "",
+      "price": 25,
+      "priceLabel": "25 LE",
+      "image": "https://i.postimg.cc/zvKszhj9/kwl-slw-sghyr.png",
+      "imageAlt": "Coleslaw Small",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-073",
+      "section": "appetizers",
+      "name": "كول سلو عائلي",
+      "nameEn": "Coleslaw Family",
+      "description": "",
+      "price": 70,
+      "priceLabel": "70 LE",
+      "image": "https://i.postimg.cc/J4qnQvd0/slw-ʿayly.png",
+      "imageAlt": "Coleslaw Family",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-074",
+      "section": "appetizers",
+      "name": "بطاطس متوسطة",
+      "nameEn": "Fries Medium",
+      "description": "",
+      "price": 40,
+      "priceLabel": "40 LE",
+      "image": "https://i.ibb.co/kszwpQJR/image.png",
+      "imageAlt": "Fries Medium",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-075",
+      "section": "appetizers",
+      "name": "بطاطس عائلية",
+      "nameEn": "Fries Family",
+      "description": "",
+      "price": 70,
+      "priceLabel": "70 LE",
+      "image": "https://i.postimg.cc/nz7YWp6k/frise-large.jpg",
+      "imageAlt": "Fries Family",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-076",
+      "section": "appetizers",
+      "name": "فريسكاس بطاطس متوسطة",
+      "nameEn": "Friscas Fries Medium",
+      "description": "",
+      "price": 50,
+      "priceLabel": "50 LE",
+      "image": "https://i.postimg.cc/1XyZhqLN/image.jpg",
+      "imageAlt": "Friscas Fries Medium",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-077",
+      "section": "appetizers",
+      "name": "فريسكاس بطاطس عائلية",
+      "nameEn": "Friscas Fries Family",
+      "description": "",
+      "price": 80,
+      "priceLabel": "80 LE",
+      "image": "https://i.postimg.cc/1XyZhqLN/image.jpg",
+      "imageAlt": "Friscas Fries Family",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-078",
+      "section": "appetizers",
+      "name": "ناجتس 6 قطع",
+      "nameEn": "Nuggets 6pc",
+      "description": "",
+      "price": 70,
+      "priceLabel": "70 LE",
+      "image": "https://i.postimg.cc/RVVzgw7Q/12.jpg",
+      "imageAlt": "ناجتس 6",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-079",
+      "section": "appetizers",
+      "name": "ناجتس 12 قطعة",
+      "nameEn": "Nuggets 12pc",
+      "description": "",
+      "price": 110,
+      "priceLabel": "110 LE",
+      "image": "https://i.postimg.cc/RVVzgw7Q/12.jpg",
+      "imageAlt": "ناجتس 12",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-080",
+      "section": "appetizers",
+      "name": "أصابع شيدر 5 قطع",
+      "nameEn": "Cheddar Fingers 5pc",
+      "description": "",
+      "price": 90,
+      "priceLabel": "90 LE",
+      "image": "https://i.postimg.cc/4ywRJ3gz/5.jpg",
+      "imageAlt": "أصابع شيدر 5",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-081",
+      "section": "appetizers",
+      "name": "أصابع شيدر 3 قطع",
+      "nameEn": "Cheddar Fingers 3pc",
+      "description": "",
+      "price": 60,
+      "priceLabel": "60 LE",
+      "image": "https://i.postimg.cc/4ywRJ3gz/5.jpg",
+      "imageAlt": "أصابع شيدر 3",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-082",
+      "section": "appetizers",
+      "name": "أصابع موزاريلا 5 قطع",
+      "nameEn": "Mozzarella Fingers 5pc",
+      "description": "",
+      "price": 85,
+      "priceLabel": "85 LE",
+      "image": "https://i.postimg.cc/HxXpCHnt/5.jpg",
+      "imageAlt": "أصابع موزاريلا 5",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-083",
+      "section": "appetizers",
+      "name": "أصابع موزاريلا 3 قطع",
+      "nameEn": "Mozzarella Fingers 3pc",
+      "description": "",
+      "price": 55,
+      "priceLabel": "55 LE",
+      "image": "https://i.postimg.cc/HxXpCHnt/5.jpg",
+      "imageAlt": "أصابع موزاريلا 3",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-084",
+      "section": "appetizers",
+      "name": "حلقات بصل 4 قطع",
+      "nameEn": "Onion Rings 4pc",
+      "description": "",
+      "price": 40,
+      "priceLabel": "40 LE",
+      "image": "https://i.postimg.cc/FKJvjmjq/8.jpg",
+      "imageAlt": "حلقات بصل 4",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-085",
+      "section": "appetizers",
+      "name": "حلقات بصل 8 قطع",
+      "nameEn": "Onion Rings 8pc",
+      "description": "",
+      "price": 60,
+      "priceLabel": "60 LE",
+      "image": "https://i.postimg.cc/FKJvjmjq/8.jpg",
+      "imageAlt": "حلقات بصل 8",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-086",
+      "section": "appetizers",
+      "name": "كوردون 3 قطع",
+      "nameEn": "Cordon 3pc",
+      "description": "",
+      "price": 50,
+      "priceLabel": "50 LE",
+      "image": "https://i.postimg.cc/L4Vpkx1x/image.jpg",
+      "imageAlt": "كوردون 3",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-087",
+      "section": "appetizers",
+      "name": "كوردون 5 قطع",
+      "nameEn": "Cordon 5pc",
+      "description": "",
+      "price": 80,
+      "priceLabel": "80 LE",
+      "image": "https://i.postimg.cc/L4Vpkx1x/image.jpg",
+      "imageAlt": "كوردون 5",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-088",
+      "section": "appetizers",
+      "name": "بطاطس دجاج بالجبن والهالبينو",
+      "nameEn": "Chicken Cheese Fries Jalapeño",
+      "description": "",
+      "price": 109,
+      "priceLabel": "109 LE",
+      "image": "https://i.postimg.cc/xjv3yjGv/tshyly-tshyz-tshykn-halbyny.png",
+      "imageAlt": "بطاطس دجاج جبن هالبينو",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-089",
+      "section": "appetizers",
+      "name": "بطاطس دجاج بالرانش والهالبينو",
+      "nameEn": "Chicken Ranch Fries Jalapeño",
+      "description": "",
+      "price": 109,
+      "priceLabel": "109 LE",
+      "image": "https://i.postimg.cc/xjv3yjGv/tshyly-tshyz-tshykn-halbyny.png",
+      "imageAlt": "بطاطس دجاج بالرانش والهالبينو",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-090",
+      "section": "appetizers",
+      "name": "بطاطس بالجبن",
+      "nameEn": "Cheese Fries",
+      "description": "",
+      "price": 85,
+      "priceLabel": "85 LE",
+      "image": "https://i.postimg.cc/kX7Fjrwp/tshyz-frayz-mʿdl.png",
+      "imageAlt": "بطاطس بالجبن",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-091",
+      "section": "appetizers",
+      "name": "بطاطس بالرانش",
+      "nameEn": "Ranch Fries",
+      "description": "",
+      "price": 85,
+      "priceLabel": "85 LE",
+      "image": "https://i.postimg.cc/kX7Fjrwp/tshyz-frayz-mʿdl.png",
+      "imageAlt": "بطاطس بالرانش",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-092",
+      "section": "appetizers",
+      "name": "بطاطس بالجبن والهالبينو",
+      "nameEn": "Cheese Fries Jalapeño",
+      "description": "",
+      "price": 85,
+      "priceLabel": "85 LE",
+      "image": "https://i.postimg.cc/fyf7w5Wt/tshyly-tshyz-frayz.png",
+      "imageAlt": "بطاطس بالجبن والهالبينو",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-093",
+      "section": "appetizers",
+      "name": "بطاطس بالرانش والهالبينو",
+      "nameEn": "Ranch Fries Jalapeño",
+      "description": "",
+      "price": 85,
+      "priceLabel": "85 LE",
+      "image": "https://i.postimg.cc/fyf7w5Wt/tshyly-tshyz-frayz.png",
+      "imageAlt": "بطاطس بالرانش والهالبينو",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-094",
+      "section": "appetizers",
+      "name": "لوداد فرسكاس",
+      "nameEn": "Loudad Frescas",
+      "description": "",
+      "price": 109,
+      "priceLabel": "109 LE",
+      "image": "https://i.postimg.cc/ry1NCyG4/ransh-frayz-mʿdl.png",
+      "imageAlt": "لوداد فرسكاس",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-095",
+      "section": "appetizers",
+      "name": "دجاج ماك اند تشيز",
+      "nameEn": "Chicken Mac Cheese",
+      "description": "",
+      "price": 99,
+      "priceLabel": "99 LE",
+      "image": "https://i.postimg.cc/VvW9Y4sv/tshykn-mak-and-tshyz-mʿdl.png",
+      "imageAlt": "دجاج ماك اند تشيز",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-096",
+      "section": "appetizers",
+      "name": "ماك تشيز",
+      "nameEn": "Mac Cheese",
+      "description": "",
+      "price": 50,
+      "priceLabel": "50 LE",
+      "image": "https://i.postimg.cc/prJQ2kVT/mak-and-tshyz-mʿdl.png",
+      "imageAlt": "ماك تشيز",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-097",
+      "section": "appetizers",
+      "name": "ريزو",
+      "nameEn": "Rizo",
+      "description": "",
+      "price": 90,
+      "priceLabel": "90 LE",
+      "image": "https://i.postimg.cc/xCHyZnWB/rizo.jpg",
+      "imageAlt": "ريزو",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-098",
+      "section": "appetizers",
+      "name": "ريزو حار",
+      "nameEn": "Rizo Spicy",
+      "description": "",
+      "price": 90,
+      "priceLabel": "90 LE",
+      "image": "https://i.postimg.cc/xCHyZnWB/rizo.jpg",
+      "imageAlt": "ريزو حار",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-099",
+      "section": "appetizers",
+      "name": "ريزو فاهيتا حار",
+      "nameEn": "Rizo Fajita Spicy",
+      "description": "",
+      "price": 90,
+      "priceLabel": "90 LE",
+      "image": "https://i.postimg.cc/MZ7mbZ0Q/ryzw-fahyta-mʿdl.png",
+      "imageAlt": "ريزو فاهيتا حار",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-100",
+      "section": "appetizers",
+      "name": "ريزو فاهيتا",
+      "nameEn": "Rizo Fajita",
+      "description": "",
+      "price": 90,
+      "priceLabel": "90 LE",
+      "image": "https://i.postimg.cc/MZ7mbZ0Q/ryzw-fahyta-mʿdl.png",
+      "imageAlt": "ريزو فاهيتا",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-101",
+      "section": "appetizers",
+      "name": "ارز مبهر صغير",
+      "nameEn": "Rice Small",
+      "description": "",
+      "price": 25,
+      "priceLabel": "25 LE",
+      "image": "https://i.postimg.cc/9MTtkCvB/rixe.jpg",
+      "imageAlt": "ارز مبهر صغير",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-102",
+      "section": "appetizers",
+      "name": "ارز مبهر كبير",
+      "nameEn": "Rice Large",
+      "description": "",
+      "price": 70,
+      "priceLabel": "70 LE",
+      "image": "https://i.ibb.co/FL7xXT8s/Red-Rooster-Crispy-Rice-Bucket.png",
+      "imageAlt": "ارز مبهر كبير",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-103",
+      "section": "appetizers",
+      "name": "ميكس بوكس",
+      "nameEn": "Mix Box",
+      "description": "",
+      "price": 109,
+      "priceLabel": "S 109 / L 169",
+      "image": "https://i.postimg.cc/rwP1FDTv/mix.jpg",
+      "imageAlt": "ميكس بوكس",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-104",
+      "section": "appetizers",
+      "name": "كوب جبن",
+      "nameEn": "Cheese Cup",
+      "description": "",
+      "price": 39,
+      "priceLabel": "39 LE",
+      "image": "https://i.postimg.cc/pVmY4YtP/cheder.jpg",
+      "imageAlt": "كوب جبن",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-105",
+      "section": "appetizers",
+      "name": "جرة جبن متوسطة",
+      "nameEn": "Cheese Jar Medium",
+      "description": "",
+      "price": 79,
+      "priceLabel": "79 LE",
+      "image": "https://i.postimg.cc/g01H4nBg/chese-m.jpg",
+      "imageAlt": "جرة جبن متوسطة",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "appetizers-106",
+      "section": "appetizers",
+      "name": "جرة جبن عائلية",
+      "nameEn": "Cheese Jar Family",
+      "description": "",
+      "price": 99,
+      "priceLabel": "99 LE",
+      "image": "https://i.postimg.cc/cHYMz0VB/chese-j-f.jpg",
+      "imageAlt": "جرة جبن عائلية",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "drinks-107",
+      "section": "drinks",
+      "name": "مشروب غازي (ماكسي كانز)",
+      "nameEn": "Soft Drink Can",
+      "description": "كولا / رمان / برتقال",
+      "price": 20,
+      "priceLabel": "20 LE",
+      "image": "https://i.ibb.co/PssjBFrY/image.webp",
+      "imageAlt": "Soft Drink Can",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "drinks-108",
+      "section": "drinks",
+      "name": "مشروب غازي (لتر)",
+      "nameEn": "Soft Drink 1L",
+      "description": "بيبسي / سفن أب / ميرندا",
+      "price": 35,
+      "priceLabel": "35 LE",
+      "image": "https://i.ibb.co/zhnkKGFW/image.jpg",
+      "imageAlt": "Soft Drink 1L",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "drinks-109",
+      "section": "drinks",
+      "name": "مياه معدنية صغيرة",
+      "nameEn": "Water",
+      "description": "مياه معبأة",
+      "price": 10,
+      "priceLabel": "10 LE",
+      "image": "https://i.ibb.co/Gf1CJcnC/image.webp",
+      "imageAlt": "Water",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    },
+    {
+      "id": "drinks-110",
+      "section": "drinks",
+      "name": "عصير",
+      "nameEn": "Juice",
+      "description": "عصير معلب",
+      "price": 15,
+      "priceLabel": "15 LE",
+      "image": "https://i.ibb.co/V0LhFXCM/image.jpg",
+      "imageAlt": "Juice",
+      "classes": [
+        "card"
+      ],
+      "available": true
+    }
+  ],
+  "excelImport": [
+    {
+      "اسم الصنف": "Classic King",
+      "الوصف": "برجر بيف، جبنة، خس، طماطم وصوصات",
+      "السعر (جنيه)": 149
+    },
+    {
+      "اسم الصنف": "Mushroom Crown",
+      "الوصف": "برجر بيف مع مشروم وجبنة وصوصات",
+      "السعر (جنيه)": 169
+    },
+    {
+      "اسم الصنف": "Bacon Star",
+      "الوصف": "برجر بيف مع شرائح تركي/بيف مدخن وجبنة وصوصات",
+      "السعر (جنيه)": 169
+    },
+    {
+      "اسم الصنف": "Royal Bite",
+      "الوصف": "برجر بيف مع جبنة وشرائح مدخنة وصوصات",
+      "السعر (جنيه)": 169
+    },
+    {
+      "اسم الصنف": "Mexicano",
+      "الوصف": "ساندوتش بيف بطابع مكسيكي مع جبنة وصوصات",
+      "السعر (جنيه)": 169
+    },
+    {
+      "اسم الصنف": "Red War",
+      "الوصف": "برجر بيف مع إضافات مقرمشة وجبنة وصوصات",
+      "السعر (جنيه)": 169
+    },
+    {
+      "اسم الصنف": "Smokey Chicken",
+      "الوصف": "دجاج مقرمش مع صوص باربكيو ومخلل وخس ومايونيز وبصل مقرمش",
+      "السعر (جنيه)": 139
+    },
+    {
+      "اسم الصنف": "Turkey Milet",
+      "الوصف": "دجاج مقرمش مع تركي مدخن وجبنة وصوصات",
+      "السعر (جنيه)": 139
+    },
+    {
+      "اسم الصنف": "Chili Gun",
+      "الوصف": "دجاج مقرمش مع هالبينو وقطع/أصابع جبنة حارة وصوص حار",
+      "السعر (جنيه)": 139
+    },
+    {
+      "اسم الصنف": "Wild Mushroom",
+      "الوصف": "دجاج مقرمش مع مشروم طازج وجبنة أمريكي ورانش",
+      "السعر (جنيه)": 139
+    },
+    {
+      "اسم الصنف": "Nash Twister",
+      "الوصف": "راب دجاج ناشفيل",
+      "السعر (جنيه)": 139
+    },
+    {
+      "اسم الصنف": "Chicken Twister",
+      "الوصف": "راب دجاج",
+      "السعر (جنيه)": 99
+    },
+    {
+      "اسم الصنف": "Fajita Twister",
+      "الوصف": "راب دجاج فاهيتا",
+      "السعر (جنيه)": 99
+    },
+    {
+      "اسم الصنف": "Fillet Supreme",
+      "الوصف": "ساندوتش فيليه دجاج مقرمش",
+      "السعر (جنيه)": 139
+    },
+    {
+      "اسم الصنف": "Zinger Supreme",
+      "الوصف": "ساندوتش زينجر دجاج مقرمش",
+      "السعر (جنيه)": 139
+    },
+    {
+      "اسم الصنف": "Red Nash Meal",
+      "الوصف": "وجبة ناشفيل مع خبز وبطاطس وكول سلو حسب الصورة",
+      "السعر (جنيه)": 179
+    },
+    {
+      "اسم الصنف": "Red Nash Meal – Large",
+      "الوصف": "وجبة ناشفيل كبيرة",
+      "السعر (جنيه)": 239
+    },
+    {
+      "اسم الصنف": "Red Nash Strips",
+      "الوصف": "ستربس دجاج ناشفيل",
+      "السعر (جنيه)": 179
+    },
+    {
+      "اسم الصنف": "Red Nash Strips – Large",
+      "الوصف": "ستربس ناشفيل حجم كبير",
+      "السعر (جنيه)": 239
+    },
+    {
+      "اسم الصنف": "Nash Cool",
+      "الوصف": "ساندوتش ناشفيل مع كول سلو",
+      "السعر (جنيه)": 179
+    },
+    {
+      "اسم الصنف": "Sweety Hit Nash",
+      "الوصف": "ساندوتش ناشفيل بصوص حلو وحار",
+      "السعر (جنيه)": 179
+    },
+    {
+      "اسم الصنف": "Sweety Nash Fries",
+      "الوصف": "بطاطس بصوص وإضافات ناشفيل",
+      "السعر (جنيه)": 129
+    },
+    {
+      "اسم الصنف": "Roosters Nash Fries",
+      "الوصف": "بطاطس بصوص وإضافات ناشفيل",
+      "السعر (جنيه)": 129
+    },
+    {
+      "اسم الصنف": "Rizzo Nash",
+      "الوصف": "ريزو ناشفيل",
+      "السعر (جنيه)": 109
+    },
+    {
+      "اسم الصنف": "Combo",
+      "الوصف": "بطاطس + مشروب Maxi Cola",
+      "السعر (جنيه)": 50
+    },
+    {
+      "اسم الصنف": "Chicken Fries",
+      "الوصف": "بطاطس/قطع دجاج",
+      "السعر (جنيه)": 109
+    },
+    {
+      "اسم الصنف": "Cheese Fries",
+      "الوصف": "بطاطس بالجبنة",
+      "السعر (جنيه)": 85
+    },
+    {
+      "اسم الصنف": "Rice",
+      "الوصف": "أرز",
+      "السعر (جنيه)": 25
+    },
+    {
+      "اسم الصنف": "Rizo Fajita",
+      "الوصف": "ريزو فاهيتا",
+      "السعر (جنيه)": 90
+    },
+    {
+      "اسم الصنف": "Rizo",
+      "الوصف": "ريزو",
+      "السعر (جنيه)": 90
+    },
+    {
+      "اسم الصنف": "Loaded Frescas",
+      "الوصف": "بطاطس محملة بالإضافات",
+      "السعر (جنيه)": 109
+    },
+    {
+      "اسم الصنف": "Mac Cheese",
+      "الوصف": "ماك آند تشيز",
+      "السعر (جنيه)": 50
+    },
+    {
+      "اسم الصنف": "Stripes Mac Cheese",
+      "الوصف": "ستربس مع ماك آند تشيز",
+      "السعر (جنيه)": 99
+    },
+    {
+      "اسم الصنف": "Fries Friscas 180g",
+      "الوصف": "بطاطس فريسكس – 180 جم",
+      "السعر (جنيه)": 70
+    },
+    {
+      "اسم الصنف": "Fries Friscas 150g",
+      "الوصف": "بطاطس فريسكس – 150 جم",
+      "السعر (جنيه)": 50
+    },
+    {
+      "اسم الصنف": "Nuggets 12 pcs",
+      "الوصف": "ناجتس 12 قطعة",
+      "السعر (جنيه)": 110
+    },
+    {
+      "اسم الصنف": "Nuggets 7 pcs",
+      "الوصف": "ناجتس 7 قطع",
+      "السعر (جنيه)": 70
+    },
+    {
+      "اسم الصنف": "Fries 170g",
+      "الوصف": "بطاطس – 170 جم",
+      "السعر (جنيه)": 70
+    },
+    {
+      "اسم الصنف": "Fries 140g",
+      "الوصف": "بطاطس – 140 جم",
+      "السعر (جنيه)": 40
+    },
+    {
+      "اسم الصنف": "Cheddar Sticks 5 pcs",
+      "الوصف": "أصابع شيدر – 5 قطع",
+      "السعر (جنيه)": 85
+    },
+    {
+      "اسم الصنف": "Cheddar Sticks 3 pcs",
+      "الوصف": "أصابع شيدر – 3 قطع",
+      "السعر (جنيه)": 60
+    },
+    {
+      "اسم الصنف": "Mozzarella Sticks 5 pcs",
+      "الوصف": "أصابع موزاريلا – 5 قطع",
+      "السعر (جنيه)": 85
+    },
+    {
+      "اسم الصنف": "Mozzarella Sticks 3 pcs",
+      "الوصف": "أصابع موزاريلا – 3 قطع",
+      "السعر (جنيه)": 55
+    },
+    {
+      "اسم الصنف": "Onion Rings 8 pcs",
+      "الوصف": "حلقات بصل – 8 قطع",
+      "السعر (جنيه)": 60
+    },
+    {
+      "اسم الصنف": "Onion Rings 4 pcs",
+      "الوصف": "حلقات بصل – 4 قطع",
+      "السعر (جنيه)": 40
+    },
+    {
+      "اسم الصنف": "Coleslaw 170g",
+      "الوصف": "كول سلو – 170 جم",
+      "السعر (جنيه)": 70
+    },
+    {
+      "اسم الصنف": "Coleslaw 25g",
+      "الوصف": "كول سلو – 25 جم",
+      "السعر (جنيه)": 25
+    },
+    {
+      "اسم الصنف": "Cordon 5 pcs",
+      "الوصف": "كوردون – 5 قطع",
+      "السعر (جنيه)": 80
+    },
+    {
+      "اسم الصنف": "Cordon 3 pcs",
+      "الوصف": "كوردون – 3 قطع",
+      "السعر (جنيه)": 50
+    },
+    {
+      "اسم الصنف": "Snack",
+      "الوصف": "وجبة سناك",
+      "السعر (جنيه)": 119
+    },
+    {
+      "اسم الصنف": "Light Strips",
+      "الوصف": "وجبة لايت ستربس",
+      "السعر (جنيه)": 119
+    },
+    {
+      "اسم الصنف": "Dinner",
+      "الوصف": "وجبة دينر",
+      "السعر (جنيه)": 199
+    },
+    {
+      "اسم الصنف": "Dinner Strips",
+      "الوصف": "وجبة دينر ستربس",
+      "السعر (جنيه)": 199
+    },
+    {
+      "اسم الصنف": "Super Snack",
+      "الوصف": "سوبر سناك مع مشروب",
+      "السعر (جنيه)": 159
+    },
+    {
+      "اسم الصنف": "Dinner Combo",
+      "الوصف": "دينر كومبو مع مشروب",
+      "السعر (جنيه)": 219
+    },
+    {
+      "اسم الصنف": "Chicken Duo",
+      "الوصف": "وجبة تشيكن ديو مع مشروب",
+      "السعر (جنيه)": 219
+    },
+    {
+      "اسم الصنف": "Super Dinner",
+      "الوصف": "سوبر دينر مع مشروب",
+      "السعر (جنيه)": 269
+    },
+    {
+      "اسم الصنف": "9 Piece Meal",
+      "الوصف": "وجبة 9 قطع دجاج",
+      "السعر (جنيه)": 599
+    },
+    {
+      "اسم الصنف": "12 Piece Meal",
+      "الوصف": "وجبة 12 قطعة دجاج",
+      "السعر (جنيه)": 699
+    },
+    {
+      "اسم الصنف": "15 Piece Meal",
+      "الوصف": "وجبة 15 قطعة دجاج",
+      "السعر (جنيه)": 799
+    },
+    {
+      "اسم الصنف": "18 Piece Meal",
+      "الوصف": "وجبة 18 قطعة دجاج",
+      "السعر (جنيه)": 899
+    },
+    {
+      "اسم الصنف": "5 Strips + 5 Chicken",
+      "الوصف": "5 ستربس + 5 قطع دجاج",
+      "السعر (جنيه)": 549
+    },
+    {
+      "اسم الصنف": "Chicken Meal",
+      "الوصف": "وجبة أطفال دجاج",
+      "السعر (جنيه)": 129
+    },
+    {
+      "اسم الصنف": "Nuggets Meal",
+      "الوصف": "وجبة أطفال ناجتس",
+      "السعر (جنيه)": 129
+    },
+    {
+      "اسم الصنف": "Chicken Sandwich",
+      "الوصف": "ساندوتش دجاج للأطفال",
+      "السعر (جنيه)": 129
+    },
+    {
+      "اسم الصنف": "Burger Sandwich",
+      "الوصف": "ساندوتش برجر للأطفال",
+      "السعر (جنيه)": 129
+    },
+    {
+      "اسم الصنف": "Cheese Jar",
+      "الوصف": "برطمان صوص جبنة",
+      "السعر (جنيه)": 99
+    },
+    {
+      "اسم الصنف": "Cheese Jar – Medium",
+      "الوصف": "صوص جبنة وسط",
+      "السعر (جنيه)": 79
+    },
+    {
+      "اسم الصنف": "Cheese Jar – Small",
+      "الوصف": "صوص جبنة صغير",
+      "السعر (جنيه)": 39
+    },
+    {
+      "اسم الصنف": "Chicken piece",
+      "الوصف": "قطعة دجاج",
+      "السعر (جنيه)": 65
+    },
+    {
+      "اسم الصنف": "Beef/Chicken strip",
+      "الوصف": "قطعة/ستربس حسب القائمة",
+      "السعر (جنيه)": 55
+    },
+    {
+      "اسم الصنف": "Chicken piece",
+      "الوصف": "قطعة دجاج",
+      "السعر (جنيه)": 55
+    },
+    {
+      "اسم الصنف": "Chicken piece",
+      "الوصف": "قطعة دجاج",
+      "السعر (جنيه)": 55
+    },
+    {
+      "اسم الصنف": "Chicken piece",
+      "الوصف": "قطعة دجاج",
+      "السعر (جنيه)": 35
+    },
+    {
+      "اسم الصنف": "Chicken piece",
+      "الوصف": "قطعة دجاج",
+      "السعر (جنيه)": 25
+    },
+    {
+      "اسم الصنف": "Chicken piece",
+      "الوصف": "قطعة دجاج",
+      "السعر (جنيه)": 25
+    },
+    {
+      "اسم الصنف": "Chicken piece",
+      "الوصف": "قطعة دجاج",
+      "السعر (جنيه)": 30
+    },
+    {
+      "اسم الصنف": "Sauce / Add-on",
+      "الوصف": "إضافة أو صوص – الاسم غير واضح بالصورة",
+      "السعر (جنيه)": 25
+    },
+    {
+      "اسم الصنف": "Mayonnaise",
+      "الوصف": "مايونيز",
+      "السعر (جنيه)": 25
+    },
+    {
+      "اسم الصنف": "Spicy mayo",
+      "الوصف": "مايونيز حار",
+      "السعر (جنيه)": 25
+    },
+    {
+      "اسم الصنف": "Burger sauce",
+      "الوصف": "صوص برجر",
+      "السعر (جنيه)": 25
+    },
+    {
+      "اسم الصنف": "Caesar sauce",
+      "الوصف": "صوص سيزر",
+      "السعر (جنيه)": 20
+    },
+    {
+      "اسم الصنف": "Mushroom sauce",
+      "الوصف": "صوص مشروم",
+      "السعر (جنيه)": 20
+    },
+    {
+      "اسم الصنف": "Cheese sauce",
+      "الوصف": "صوص جبنة",
+      "السعر (جنيه)": 20
+    },
+    {
+      "اسم الصنف": "Ranch sauce",
+      "الوصف": "صوص رانش",
+      "السعر (جنيه)": 20
+    },
+    {
+      "اسم الصنف": "BBQ sauce",
+      "الوصف": "صوص باربكيو",
+      "السعر (جنيه)": 20
+    },
+    {
+      "اسم الصنف": "Sweet chili sauce",
+      "الوصف": "صوص سويت تشيلي",
+      "السعر (جنيه)": 15
+    },
+    {
+      "اسم الصنف": "Pickles",
+      "الوصف": "مخلل",
+      "السعر (جنيه)": 10
+    },
+    {
+      "اسم الصنف": "Extra bread",
+      "الوصف": "خبز إضافي",
+      "السعر (جنيه)": 5
+    },
+    {
+      "اسم الصنف": "Mineral water",
+      "الوصف": "مياه معدنية",
+      "السعر (جنيه)": 10
+    },
+    {
+      "اسم الصنف": "Soft drink",
+      "الوصف": "مشروب غازي",
+      "السعر (جنيه)": 20
+    },
+    {
+      "اسم الصنف": "Juice",
+      "الوصف": "عصير",
+      "السعر (جنيه)": 15
+    },
+    {
+      "اسم الصنف": "Juice – Large",
+      "الوصف": "عصير حجم كبير",
+      "السعر (جنيه)": 35
+    },
+    {
+      "القسم": "ساندوتشات بيف",
+      "اسم الصنف": "Classic King",
+      "الوصف": "برجر بيف، جبنة، خس، طماطم وصوصات",
+      "السعر (جنيه)": 149
+    },
+    {
+      "القسم": "ساندوتشات بيف",
+      "اسم الصنف": "Mushroom Crown",
+      "الوصف": "برجر بيف مع مشروم وجبنة وصوصات",
+      "السعر (جنيه)": 169
+    },
+    {
+      "القسم": "ساندوتشات بيف",
+      "اسم الصنف": "Bacon Star",
+      "الوصف": "برجر بيف مع شرائح تركي/بيف مدخن وجبنة وصوصات",
+      "السعر (جنيه)": 169
+    },
+    {
+      "القسم": "ساندوتشات بيف",
+      "اسم الصنف": "Royal Bite",
+      "الوصف": "برجر بيف مع جبنة وشرائح مدخنة وصوصات",
+      "السعر (جنيه)": 169
+    },
+    {
+      "القسم": "ساندوتشات بيف",
+      "اسم الصنف": "Mexicano",
+      "الوصف": "ساندوتش بيف بطابع مكسيكي مع جبنة وصوصات",
+      "السعر (جنيه)": 169
+    },
+    {
+      "القسم": "ساندوتشات بيف",
+      "اسم الصنف": "Red War",
+      "الوصف": "برجر بيف مع إضافات مقرمشة وجبنة وصوصات",
+      "السعر (جنيه)": 169
+    },
+    {
+      "القسم": "ساندوتشات تشيكن",
+      "اسم الصنف": "Smokey Chicken",
+      "الوصف": "دجاج مقرمش مع صوص باربكيو ومخلل وخس ومايونيز وبصل مقرمش",
+      "السعر (جنيه)": 139
+    },
+    {
+      "القسم": "ساندوتشات تشيكن",
+      "اسم الصنف": "Turkey Milet",
+      "الوصف": "دجاج مقرمش مع تركي مدخن وجبنة وصوصات",
+      "السعر (جنيه)": 139
+    },
+    {
+      "القسم": "ساندوتشات تشيكن",
+      "اسم الصنف": "Chili Gun",
+      "الوصف": "دجاج مقرمش مع هالبينو وقطع/أصابع جبنة حارة وصوص حار",
+      "السعر (جنيه)": 139
+    },
+    {
+      "القسم": "ساندوتشات تشيكن",
+      "اسم الصنف": "Wild Mushroom",
+      "الوصف": "دجاج مقرمش مع مشروم طازج وجبنة أمريكي ورانش",
+      "السعر (جنيه)": 139
+    },
+    {
+      "القسم": "ساندوتشات تشيكن",
+      "اسم الصنف": "Nash Twister",
+      "الوصف": "راب دجاج ناشفيل",
+      "السعر (جنيه)": 139
+    },
+    {
+      "القسم": "ساندوتشات تشيكن",
+      "اسم الصنف": "Chicken Twister",
+      "الوصف": "راب دجاج",
+      "السعر (جنيه)": 99
+    },
+    {
+      "القسم": "ساندوتشات تشيكن",
+      "اسم الصنف": "Fajita Twister",
+      "الوصف": "راب دجاج فاهيتا",
+      "السعر (جنيه)": 99
+    },
+    {
+      "القسم": "ساندوتشات تشيكن",
+      "اسم الصنف": "Fillet Supreme",
+      "الوصف": "ساندوتش فيليه دجاج مقرمش",
+      "السعر (جنيه)": 139
+    },
+    {
+      "القسم": "ساندوتشات تشيكن",
+      "اسم الصنف": "Zinger Supreme",
+      "الوصف": "ساندوتش زينجر دجاج مقرمش",
+      "السعر (جنيه)": 139
+    },
+    {
+      "القسم": "ناشفيل",
+      "اسم الصنف": "Red Nash Meal",
+      "الوصف": "وجبة ناشفيل مع خبز وبطاطس وكول سلو حسب الصورة",
+      "السعر (جنيه)": 179
+    },
+    {
+      "القسم": "ناشفيل",
+      "اسم الصنف": "Red Nash Meal – Large",
+      "الوصف": "وجبة ناشفيل كبيرة",
+      "السعر (جنيه)": 239
+    },
+    {
+      "القسم": "ناشفيل",
+      "اسم الصنف": "Red Nash Strips",
+      "الوصف": "ستربس دجاج ناشفيل",
+      "السعر (جنيه)": 179
+    },
+    {
+      "القسم": "ناشفيل",
+      "اسم الصنف": "Red Nash Strips – Large",
+      "الوصف": "ستربس ناشفيل حجم كبير",
+      "السعر (جنيه)": 239
+    },
+    {
+      "القسم": "ناشفيل",
+      "اسم الصنف": "Nash Cool",
+      "الوصف": "ساندوتش ناشفيل مع كول سلو",
+      "السعر (جنيه)": 179
+    },
+    {
+      "القسم": "ناشفيل",
+      "اسم الصنف": "Sweety Hit Nash",
+      "الوصف": "ساندوتش ناشفيل بصوص حلو وحار",
+      "السعر (جنيه)": 179
+    },
+    {
+      "القسم": "ناشفيل",
+      "اسم الصنف": "Sweety Nash Fries",
+      "الوصف": "بطاطس بصوص وإضافات ناشفيل",
+      "السعر (جنيه)": 129
+    },
+    {
+      "القسم": "ناشفيل",
+      "اسم الصنف": "Roosters Nash Fries",
+      "الوصف": "بطاطس بصوص وإضافات ناشفيل",
+      "السعر (جنيه)": 129
+    },
+    {
+      "القسم": "ناشفيل",
+      "اسم الصنف": "Rizzo Nash",
+      "الوصف": "ريزو ناشفيل",
+      "السعر (جنيه)": 109
+    },
+    {
+      "القسم": "كومبو",
+      "اسم الصنف": "Combo",
+      "الوصف": "بطاطس + مشروب Maxi Cola",
+      "السعر (جنيه)": 50
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Chicken Fries",
+      "الوصف": "بطاطس/قطع دجاج",
+      "السعر (جنيه)": 109
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Cheese Fries",
+      "الوصف": "بطاطس بالجبنة",
+      "السعر (جنيه)": 85
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Rice",
+      "الوصف": "أرز",
+      "السعر (جنيه)": 25
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Rizo Fajita",
+      "الوصف": "ريزو فاهيتا",
+      "السعر (جنيه)": 90
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Rizo",
+      "الوصف": "ريزو",
+      "السعر (جنيه)": 90
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Loaded Frescas",
+      "الوصف": "بطاطس محملة بالإضافات",
+      "السعر (جنيه)": 109
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Mac Cheese",
+      "الوصف": "ماك آند تشيز",
+      "السعر (جنيه)": 50
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Stripes Mac Cheese",
+      "الوصف": "ستربس مع ماك آند تشيز",
+      "السعر (جنيه)": 99
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Fries Friscas 180g",
+      "الوصف": "بطاطس فريسكس – 180 جم",
+      "السعر (جنيه)": 70
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Fries Friscas 150g",
+      "الوصف": "بطاطس فريسكس – 150 جم",
+      "السعر (جنيه)": 50
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Nuggets 12 pcs",
+      "الوصف": "ناجتس 12 قطعة",
+      "السعر (جنيه)": 110
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Nuggets 7 pcs",
+      "الوصف": "ناجتس 7 قطع",
+      "السعر (جنيه)": 70
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Fries 170g",
+      "الوصف": "بطاطس – 170 جم",
+      "السعر (جنيه)": 70
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Fries 140g",
+      "الوصف": "بطاطس – 140 جم",
+      "السعر (جنيه)": 40
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Cheddar Sticks 5 pcs",
+      "الوصف": "أصابع شيدر – 5 قطع",
+      "السعر (جنيه)": 85
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Cheddar Sticks 3 pcs",
+      "الوصف": "أصابع شيدر – 3 قطع",
+      "السعر (جنيه)": 60
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Mozzarella Sticks 5 pcs",
+      "الوصف": "أصابع موزاريلا – 5 قطع",
+      "السعر (جنيه)": 85
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Mozzarella Sticks 3 pcs",
+      "الوصف": "أصابع موزاريلا – 3 قطع",
+      "السعر (جنيه)": 55
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Onion Rings 8 pcs",
+      "الوصف": "حلقات بصل – 8 قطع",
+      "السعر (جنيه)": 60
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Onion Rings 4 pcs",
+      "الوصف": "حلقات بصل – 4 قطع",
+      "السعر (جنيه)": 40
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Coleslaw 170g",
+      "الوصف": "كول سلو – 170 جم",
+      "السعر (جنيه)": 70
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Coleslaw 25g",
+      "الوصف": "كول سلو – 25 جم",
+      "السعر (جنيه)": 25
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Cordon 5 pcs",
+      "الوصف": "كوردون – 5 قطع",
+      "السعر (جنيه)": 80
+    },
+    {
+      "القسم": "مقبلات",
+      "اسم الصنف": "Cordon 3 pcs",
+      "الوصف": "كوردون – 3 قطع",
+      "السعر (جنيه)": 50
+    },
+    {
+      "القسم": "وجبات فردية",
+      "اسم الصنف": "Snack",
+      "الوصف": "وجبة سناك",
+      "السعر (جنيه)": 119
+    },
+    {
+      "القسم": "وجبات فردية",
+      "اسم الصنف": "Light Strips",
+      "الوصف": "وجبة لايت ستربس",
+      "السعر (جنيه)": 119
+    },
+    {
+      "القسم": "وجبات فردية",
+      "اسم الصنف": "Dinner",
+      "الوصف": "وجبة دينر",
+      "السعر (جنيه)": 199
+    },
+    {
+      "القسم": "وجبات فردية",
+      "اسم الصنف": "Dinner Strips",
+      "الوصف": "وجبة دينر ستربس",
+      "السعر (جنيه)": 199
+    },
+    {
+      "القسم": "وجبات فردية",
+      "اسم الصنف": "Super Snack",
+      "الوصف": "سوبر سناك مع مشروب",
+      "السعر (جنيه)": 159
+    },
+    {
+      "القسم": "وجبات فردية",
+      "اسم الصنف": "Dinner Combo",
+      "الوصف": "دينر كومبو مع مشروب",
+      "السعر (جنيه)": 219
+    },
+    {
+      "القسم": "وجبات فردية",
+      "اسم الصنف": "Chicken Duo",
+      "الوصف": "وجبة تشيكن ديو مع مشروب",
+      "السعر (جنيه)": 219
+    },
+    {
+      "القسم": "وجبات فردية",
+      "اسم الصنف": "Super Dinner",
+      "الوصف": "سوبر دينر مع مشروب",
+      "السعر (جنيه)": 269
+    },
+    {
+      "القسم": "وجبات عائلية",
+      "اسم الصنف": "9 Piece Meal",
+      "الوصف": "وجبة 9 قطع دجاج",
+      "السعر (جنيه)": 599
+    },
+    {
+      "القسم": "وجبات عائلية",
+      "اسم الصنف": "12 Piece Meal",
+      "الوصف": "وجبة 12 قطعة دجاج",
+      "السعر (جنيه)": 699
+    },
+    {
+      "القسم": "وجبات عائلية",
+      "اسم الصنف": "15 Piece Meal",
+      "الوصف": "وجبة 15 قطعة دجاج",
+      "السعر (جنيه)": 799
+    },
+    {
+      "القسم": "وجبات عائلية",
+      "اسم الصنف": "18 Piece Meal",
+      "الوصف": "وجبة 18 قطعة دجاج",
+      "السعر (جنيه)": 899
+    },
+    {
+      "القسم": "وجبات عائلية",
+      "اسم الصنف": "5 Strips + 5 Chicken",
+      "الوصف": "5 ستربس + 5 قطع دجاج",
+      "السعر (جنيه)": 549
+    },
+    {
+      "القسم": "وجبات أطفال",
+      "اسم الصنف": "Chicken Meal",
+      "الوصف": "وجبة أطفال دجاج",
+      "السعر (جنيه)": 129
+    },
+    {
+      "القسم": "وجبات أطفال",
+      "اسم الصنف": "Nuggets Meal",
+      "الوصف": "وجبة أطفال ناجتس",
+      "السعر (جنيه)": 129
+    },
+    {
+      "القسم": "وجبات أطفال",
+      "اسم الصنف": "Chicken Sandwich",
+      "الوصف": "ساندوتش دجاج للأطفال",
+      "السعر (جنيه)": 129
+    },
+    {
+      "القسم": "وجبات أطفال",
+      "اسم الصنف": "Burger Sandwich",
+      "الوصف": "ساندوتش برجر للأطفال",
+      "السعر (جنيه)": 129
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Cheese Jar",
+      "الوصف": "برطمان صوص جبنة",
+      "السعر (جنيه)": 99
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Cheese Jar – Medium",
+      "الوصف": "صوص جبنة وسط",
+      "السعر (جنيه)": 79
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Cheese Jar – Small",
+      "الوصف": "صوص جبنة صغير",
+      "السعر (جنيه)": 39
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Chicken piece",
+      "الوصف": "قطعة دجاج",
+      "السعر (جنيه)": 65
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Beef/Chicken strip",
+      "الوصف": "قطعة/ستربس حسب القائمة",
+      "السعر (جنيه)": 55
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Chicken piece",
+      "الوصف": "قطعة دجاج",
+      "السعر (جنيه)": 55
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Chicken piece",
+      "الوصف": "قطعة دجاج",
+      "السعر (جنيه)": 55
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Chicken piece",
+      "الوصف": "قطعة دجاج",
+      "السعر (جنيه)": 35
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Chicken piece",
+      "الوصف": "قطعة دجاج",
+      "السعر (جنيه)": 25
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Chicken piece",
+      "الوصف": "قطعة دجاج",
+      "السعر (جنيه)": 25
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Chicken piece",
+      "الوصف": "قطعة دجاج",
+      "السعر (جنيه)": 30
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Sauce / Add-on",
+      "الوصف": "إضافة أو صوص – الاسم غير واضح بالصورة",
+      "السعر (جنيه)": 25
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Mayonnaise",
+      "الوصف": "مايونيز",
+      "السعر (جنيه)": 25
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Spicy mayo",
+      "الوصف": "مايونيز حار",
+      "السعر (جنيه)": 25
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Burger sauce",
+      "الوصف": "صوص برجر",
+      "السعر (جنيه)": 25
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Caesar sauce",
+      "الوصف": "صوص سيزر",
+      "السعر (جنيه)": 20
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Mushroom sauce",
+      "الوصف": "صوص مشروم",
+      "السعر (جنيه)": 20
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Cheese sauce",
+      "الوصف": "صوص جبنة",
+      "السعر (جنيه)": 20
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Ranch sauce",
+      "الوصف": "صوص رانش",
+      "السعر (جنيه)": 20
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "BBQ sauce",
+      "الوصف": "صوص باربكيو",
+      "السعر (جنيه)": 20
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Sweet chili sauce",
+      "الوصف": "صوص سويت تشيلي",
+      "السعر (جنيه)": 15
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Pickles",
+      "الوصف": "مخلل",
+      "السعر (جنيه)": 10
+    },
+    {
+      "القسم": "صوصات وإضافات",
+      "اسم الصنف": "Extra bread",
+      "الوصف": "خبز إضافي",
+      "السعر (جنيه)": 5
+    },
+    {
+      "القسم": "مشروبات",
+      "اسم الصنف": "Mineral water",
+      "الوصف": "مياه معدنية",
+      "السعر (جنيه)": 10
+    },
+    {
+      "القسم": "مشروبات",
+      "اسم الصنف": "Soft drink",
+      "الوصف": "مشروب غازي",
+      "السعر (جنيه)": 20
+    },
+    {
+      "القسم": "مشروبات",
+      "اسم الصنف": "Juice",
+      "الوصف": "عصير",
+      "السعر (جنيه)": 15
+    },
+    {
+      "القسم": "مشروبات",
+      "اسم الصنف": "Juice – Large",
+      "الوصف": "عصير حجم كبير",
+      "السعر (جنيه)": 35
+    }
+  ]
+}
